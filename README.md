@@ -53,7 +53,7 @@ If user found something on the social website that he did not understand From th
 There are many software Which has a lot of options But it is very difficult to use them Due to UI 
 We Will make your application easy to use user easy to understand.
 
-### Task 11: See perivous twit without internet ###
+### Task 11: See perivous tweet without internet ###
 If your net is not connect  and you are bored So you can see your previous tweet.
 
 
