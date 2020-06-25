@@ -65,11 +65,3 @@ Basic purpose of this application Is for student and office staff Why save your 
 
 ## References ##
 
-ye kaam kr lu samjh nhi aarha 
-- Mention and add [links](https://guides.github.com/features/mastering-markdown/), references, books, research papers, code samples, you used to get help in the project.
--Use bullets like this.
-- Mention all references. Plagiarism will not be tolerated.
-- You see markdown is not that difficult.
-- You are CS students not some tom harry from BBA SHE-B-A :-).
-- You can and must learn to use markdown and Github. 
-- All future project development will be done in something similar to GITHUB
