@@ -1,4 +1,4 @@
-# HCI 104475: 2 in 1 Desktop App #
+# HCI 104497: 2 in 1 Desktop App #
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
@@ -55,19 +55,12 @@ We Will make your application easy to use user easy to understand.
 If your net is not connect  and you are bored So you can see your previous tweet.
 
 ## Prospect Technology Use ##
-> #### bunifu framework####
-> #### metroframework ####
-> #### Vs ####
-
-There are many things that are not covered by mobile And the best option for that is Desktop software  .
-nowadays the screen available in market  it Can not open more than two tap in one screen .You can open multiple tabs  Easy to use 
-You are getting lots of options.
-Basic purpose of this application Is for student and office staff Why save your time through good hci .
+We are using visual studio software through C# lanuage for making this desktop app. There are a lot of things we can't do on mobile which is why we choose desktop software. User will do all its work easily within one package.
 
 ## References ##
 Framework and UI designing ideas getting from these websites.
-* -https://medium.com/@awkwardferny/bad-software-development-patterns-and-how-to-fix-them-4f2d3b54c7e6 ####
-* -https://bunifuframework.com/examples/ ####
-* -https://www.smashingmagazine.com/2014/05/6-common-problems-ux-process-6-solutions/ ####
-* -https://uimovement.com/ ####
+#### -https://medium.com/@awkwardferny/bad-software-development-patterns-and-how-to-fix-them-4f2d3b54c7e6 ####
+#### -https://bunifuframework.com/examples/ ####
+#### -https://www.smashingmagazine.com/2014/05/6-common-problems-ux-process-6-solutions/ ####
+#### -https://uimovement.com/ ####
 
