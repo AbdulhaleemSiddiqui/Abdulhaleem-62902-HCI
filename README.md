@@ -61,8 +61,7 @@ You are getting lots of options.
 Basic purpose of this application Is for student and office staff Why save your time through good hci .
 
 ## References ##
-munwar format dekh lu ek dafa pura dekh lu abhi kr dunga kha per kesi heading hugi kese ref aye gy proppect mein kiya aye ga
--basic idea is my own but there is also support from the net.
+Framework and UI designing ideas getting from these websites.
 -https://medium.com/@awkwardferny/bad-software-development-patterns-and-how-to-fix-them-4f2d3b54c7e6
 -https://bunifuframework.com/examples/
 -https://www.smashingmagazine.com/2014/05/6-common-problems-ux-process-6-solutions/
