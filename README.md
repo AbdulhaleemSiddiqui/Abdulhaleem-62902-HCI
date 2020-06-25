@@ -15,7 +15,6 @@ If we Want to do music and development together That is also the issue.
 we have motivat to solve this issue you can control laptop on urdu command .see the perivous twit watch without inernet ,send auto tweet.
 To solve all these problem Need a good UI From where you can control everything comfortably and open many application only one  platform.
 
-
 ### Task 1: urdu voice recognition ###
 By doing this task User can control Via urdu voice just like iron man pc.
 If the user is using social media so User can open anything via Urdu command in voice .
@@ -38,7 +37,6 @@ Its advantage is that Reduce your pc load.
 ### Task 6: Tweet scheduling ###
 Many people want If he is busy In some work But they have to send a message to someone so Can schedule tweets.
 
-
 ### Task 7: multiple scoial  on one screen ###
 Many users have this problem If they want to use instagram whatsapp facebook together So they have to open multiple tabs Their issue will also be resolved.
 
@@ -55,7 +53,6 @@ We Will make your application easy to use user easy to understand.
 
 ### Task 11: See perivous tweet without internet ###
 If your net is not connect  and you are bored So you can see your previous tweet.
-
 
 ## Prospect Technology Use ##
 There are many things that are not covered by mobile And the best option for that is Desktop software  .
