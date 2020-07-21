@@ -22,9 +22,9 @@ The office workers and students are the main audience of this application. This 
 3) Brainstorm few questions from perspective of each persona in each scenario and story.  
 4) Based on those question finalize at-least 2 designs.
 
-##Prototyping##
+## Prototyping ##
 Develop low fidelity prototypes for each of the 2 disgns selected above. 
 
 
-##Evaluation##
+## Evaluation ##
 Get the prototypes evaluated quickly by someone in your family or circle.  
