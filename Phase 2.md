@@ -10,7 +10,7 @@ These are 2 tasks that we implement in our application .
 
 2.The Multiple app on one screen is the main option of this application. Most used applicaion of users he/she can set those applications on a screen. For eg if user want to open the whatsapp and facebook simultaneouly or any other application Computer screen divided into parts. He/She can view multiple apps on a single screen.
 
-The office workers and students are the main audience of this application. This application is very useful for the soical purpose like games social media and many other application are available on a single screen.                
+The office workers and students and other users who want to use many apps simultaneously at a time are the main audience of this application.
 
 ## Design Alternatives ##
 
