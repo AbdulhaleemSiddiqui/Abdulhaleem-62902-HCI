@@ -1,15 +1,15 @@
 ## Task Finalization ##
 #### 1. Urdu voice Recognition. ####
-#### 2. Multiple social on one screen. ####
+#### 2. Multiple app on one screen. ####
 
 These are 2 tasks that we implement in our application .
 
 
-##Need Finding##
+## Need Finding ##
+1.The Urdu voice Recognition option works on the basis of what user want to find in the Computer. User just click on the option "Suno yaar" and says in urdu whatever he or she wanted to find like open the browser, close or open any application.
+2.The Multiple social on one screen is the
 
-Use internet to find videos, real scenarios, current trends etc etc of how that particular task is usually performed. 
-
-Who are the major target audience/users who perform the task selected. 
+The office workers and students are the main audience of this application. This application is very useful for the soical purpose like games social media and many other application are available on a single screen.                
 
 Many other questions. 
 
