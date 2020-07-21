@@ -37,7 +37,7 @@ Its advantage is that Reduce your pc load.
 ### Task 6: Tweet scheduling ###
 Many people want If he is busy In some work But they have to send a message to someone so Can schedule tweets.
 
-### Task 7: Multiple social on one screen ###
+### Task 7: Multiple app on one screen ###
 Many users have this problem If they want to use instagram whatsapp facebook together So they have to open multiple tabs Their issue will also be resolved.
 
 ### Task 8: Timer ###
