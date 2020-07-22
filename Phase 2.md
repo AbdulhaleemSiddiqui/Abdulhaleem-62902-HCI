@@ -19,9 +19,9 @@ These are 2 tasks that we implement in our application .
 1. The Urdu voice Recognition option works on the basis of what user want to find in the Computer. User just click on the option "Suno yaar" and says in urdu whatever he or she wanted to find like open the browser, close or open any application and auto twite is simple idea .you can schedule the twite to any specific time .   .
 
 2. The Multiple app on one screen is the main option of this application. Most used applicaion of users he/she can set those applications on a screen. For eg if user want to open the whatsapp and facebook simultaneouly or any other application Computer screen divided into parts. He/She can view multiple apps on a single screen.
-
-audience:The office workers and students and other users who want to use many apps simultaneously at a time are the main audience of this application.
-Soical media user,normal pc user,special Dumb people,UN-ENEDUCATPEOPLE,Actor
+#the target audience  free or scoial media user  they most of the time expend in soical web site for scrolling or uploading videos or images in social webs sites or expend the time in listen to the music .
+Social admin page user control so many apps simultaneously at a time are the main audience of this application.
+Soical media user,normal pc user,special Dumb people,lazy people 
 what any application design for special people to easily using the desktop pcs?
 i think many application design but most of the application just only special person  
 they  ignor the normal public.but this app is targeted to more  normal and specail audience  
