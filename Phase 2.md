@@ -29,15 +29,46 @@ they  ignor the normal public.but this app is targeted to more  normal and speca
 ## Design Alternatives ##
 
 1) List down at-least 10 design alternatives.
-
+ i-
+ ii-
+ iii-
+ iv-
+ V-
+ Vi-
+ vii-
+ ix-
+ x-
 
 2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
 - 6-7 personas
+  i-
+  ii-
+  iii-
+  iv-
+  v-
+  vi-
+  
 - 4 scenarios
+  i-
+  ii-
+  iii-
+  iv-
 - 4 storyboards
+   i-
+   ii-
+   iii
+   iv-
 3) Brainstorm few questions from perspective of each persona in each scenario and story.  
+  Q1
+  Q2
+  Q3
+  Q4
+  Q5
+  Q6
 4) Based on those question finalize at-least 2 designs.
-
+          #FINALIZE DESIGN#
+1
+2
 ## Prototyping ##
 Develop low fidelity prototypes for each of the 2 disgns selected above. 
 
