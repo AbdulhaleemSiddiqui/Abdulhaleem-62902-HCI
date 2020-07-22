@@ -9,22 +9,28 @@ StdID | Name
 
 
 ## Task Finalization ##
-#### 1. Urdu voice Recognition. ####
+#### 1. Urdu voice Recognition & Auto Twite . ####
 #### 2. Multiple app on one screen. ####
 
 These are 2 tasks that we implement in our application .
 
 
 ## Need Finding ##
-1. The Urdu voice Recognition option works on the basis of what user want to find in the Computer. User just click on the option "Suno yaar" and says in urdu whatever he or she wanted to find like open the browser, close or open any application.
+1. The Urdu voice Recognition option works on the basis of what user want to find in the Computer. User just click on the option "Suno yaar" and says in urdu whatever he or she wanted to find like open the browser, close or open any application and auto twite is simple idea .you can schedule the twite to any specific time .   .
 
 2. The Multiple app on one screen is the main option of this application. Most used applicaion of users he/she can set those applications on a screen. For eg if user want to open the whatsapp and facebook simultaneouly or any other application Computer screen divided into parts. He/She can view multiple apps on a single screen.
 
-The office workers and students and other users who want to use many apps simultaneously at a time are the main audience of this application.
+audience:The office workers and students and other users who want to use many apps simultaneously at a time are the main audience of this application.
+Soical media user,normal pc user,special Dumb people,UN-ENEDUCATPEOPLE,Actor
+what any application design for special people to easily using the desktop pcs?
+i think many application design but most of the application just only special person  
+they  ignor the normal public.but this app is targeted to more  normal and specail audience  
 
 ## Design Alternatives ##
 
 1) List down at-least 10 design alternatives.
+
+
 2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
 - 6-7 personas
 - 4 scenarios
