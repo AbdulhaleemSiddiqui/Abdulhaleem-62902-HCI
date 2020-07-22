@@ -1,3 +1,13 @@
+
+# HCI 104497: 2 in 1 Desktop App #
+### PROJECT MEMBERS ###
+StdID | Name
+------------ | -------------
+**62902** | **Abdul Haleem** <!--this is the group leader in bold-->
+62367 | Syed Munawwar ALi Shah 
+<!-- Replace name and student ids with acutally group member names and ids-->
+
+
 ## Task Finalization ##
 #### 1. Urdu voice Recognition. ####
 #### 2. Multiple app on one screen. ####
