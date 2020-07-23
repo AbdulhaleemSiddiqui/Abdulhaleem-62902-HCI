@@ -13,7 +13,6 @@ StdID | Name
 
 These are 2 tasks that we implement in our application .
 
-
 ## Need Finding ##
 1. The Urdu voice Recognition option works on the basis of what user want to find in the Computer. User just click on the option "Suno yaar" and says in urdu whatever he or she wanted to find like open the browser, close or open any application and auto twite is simple idea .you can schedule the twite to any specific time.
 
@@ -38,9 +37,8 @@ background music and also twite schduling is most important option on social web
 
 5) Alex is a student and he is not interested in studies. He is having a problem that he finds fault in everyone thats why he losts all the job due to his reason. He started working to find the bug in the application. Till today, he has not received any app that does not lack even he showing his interest because he is making a money to do this work.
 
-6) Anas is an uneducated person 
+6) Anas is an uneducated person and he does not comfortable to use english language. He wanted to use urdu language which he can use to find any file or application in the system.
 
-  
 ### 3) Scenarios
 ///////
 ### 4) storyboards
