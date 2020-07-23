@@ -11,7 +11,7 @@ StdID | Name
 #### 1. Urdu voice Recognition . ####
 #### 2. Multiple app on one screen, Auto Tweet and background music. ####
 
-These are 2 tasks that we implement in our application .
+These are 2 tasks that we implement in our application A
 
 ## Need Finding ##
 1. The Urdu voice Recognition option works on the basis of what user want to find in the Computer. User just click on the option "Suno yaar" and says in urdu whatever he or she wanted to find like open the browser, close or open any application and auto twite is simple idea .you can schedule the twite to any specific time.
