@@ -19,7 +19,7 @@ These are 2 tasks that we implement in our application .
 2. The Multiple app on one screen is the main option of this application. Most used applicaion of users he/she can set those applications on a screen. For eg if user want to open the whatsapp and facebook simultaneouly or any other application Computer screen divided into parts. He/She can view multiple apps on a single screen.you can listen 
 background music and also twite schduling is most important option on social websites 
 
-### The targeted audience are free or scoial media user they most of the time expend in soical web site for scrolling or uploading videos or images in social webs sites or expend the time in listen to the music.Social admin page user control so many apps simultaneously at a time are the main audience of this application.
+The targeted audience are free or scoial media user they most of the time spend in soical web site for scrolling or uploading videos or images in social webs sites or expend the time in listen to the music.Social admin page user control so many apps simultaneously at a time are the main audience of this application.
 
 ## Design Alternatives ##
 
@@ -40,7 +40,8 @@ background music and also twite schduling is most important option on social web
 6) Anas is an uneducated person and he does not comfortable to use english language. He wanted to use urdu language which he can use to find any file or application in the system.
 
 ### 3) Scenarios
-///////
+
+
 ### 4) storyboards
   
 3) Brainstorm few questions from perspective of each persona in each scenario and story.  
