@@ -6,7 +6,7 @@ StdID | Name
 62367 | Syed Munawwar ALi Shah 
 <!-- Replace name and student ids with acutally group member names and ids-->
 ASDA
-
+ASD
 ## Task Finalization ##
 #### 1. Urdu voice Recognition . ####
 #### 2. Multiple app on one screen, Auto Tweet and background music. ####
