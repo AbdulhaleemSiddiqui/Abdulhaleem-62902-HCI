@@ -81,15 +81,15 @@ We made multiple designs and keeping the point of problems we selected the desig
  
 ## Prototyping ##
 Develop low fidelity prototypes for each of the 2 disgns selected above.
-##1:1##
+## 1:1 ##
 ![P1](https://user-images.githubusercontent.com/66660943/88336124-e7999780-cd4d-11ea-97e9-b7960feec150.jpeg)
-##1:2##
+## 1:2 ##
 ![P1,2](https://user-images.githubusercontent.com/66660943/88336123-e7010100-cd4d-11ea-9618-f7a4f7fb4ff4.jpeg)
-##1:3##
+## 1:3 ##
 ![P1,3](https://user-images.githubusercontent.com/66660943/88336114-e49ea700-cd4d-11ea-9442-e7f09fec13e4.jpeg)
-##2:1##
+## 2:1 ##
 ![P21](https://user-images.githubusercontent.com/66660943/88336118-e5cfd400-cd4d-11ea-9492-544f946bf2ea.jpeg)
-##2:2##
+## 2:2 ##
 ![P2](https://user-images.githubusercontent.com/66660943/88336121-e6686a80-cd4d-11ea-9733-072dada48b59.jpeg)
 
 
