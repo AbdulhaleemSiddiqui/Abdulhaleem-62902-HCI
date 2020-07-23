@@ -79,3 +79,50 @@ Develop low fidelity prototypes for each of the 2 disgns selected above.
 
 ## Evaluation ##
 Get the prototypes evaluated quickly by someone in your family or circle.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+personas1
+1)John is a old person that he work on industrial area  . weak eyes and ears due to industrial enviroment and age
+facotr  they have work in office   zada tar kaam nka pc per huta hein magher unku cheezy kholny mein mushkil huti h
+zada tar time wu serach or dhoon ny mein laga diya karty hein  files ,pc applicaton etc jis ki waja sy unka kaam pura nhi huta 
+or boss her roz sunnata hein 
+
+
+kamran khan new  naker hein youtube per .us ku logo ku twitte kerny huty hein video upload kerni huty hein reviews or video bnany ky liye servey or current news per dekny huty hein
+
+
+
+
+ahsan is  scoial active person that he can manage or run many social pages 
+mgaer wu is sy preshan rahta h ky mtiple social application kese ek saat manage kary.
+us ka pc slow h zada heavy application saport nhi kart sakta uski kami isi sy huti h .
+
+
+
+shahzib home user  ghussy mein rahta hein her waqet .koi bhi application use ker rha hu wu or lag kary forren ghussa kr jata hein .ager koi excel ki file per 
+kaam karn hein kisi document sy to bar bar alt+tap dab kr move huna perta heinbar bar move huny ki waja sy ka mein misktak bhi zada huti h
+preshani ka aalam mein kaam karta h
+
+alex student h jese koi khas interest nhi h parny mein logo ki khamiya nikalna uska pesha hein tanz ky bagher baat nhi karta 
+kahi per internship per lagta bhi hein tu isi waja sy farigh ker diya jata hein
+usny bug reporting start ki hein logo ki application use kr ky unki khamiya report karta hein aaj tak koi aaplication isi nhi jis mein usku khami mahsoos nhi howi hu
+kio ky ab ye is sy pese bna rha hein tu or interest ky saat kaam kr rha hein,hm ny bhi apni applicaton check kary gy hamein lagta hein koi bug nhi h
+
+Anas chokra wala jis ku sirf urdu aati hein .internet per wu movies dekh rha hu or ammi ajay tu uski shaamat ajayti hein. wu chahta hein koi
+asea kaam hu jese wu baj saky is sy. 
+
