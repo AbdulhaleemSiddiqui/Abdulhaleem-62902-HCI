@@ -19,13 +19,13 @@ These are 2 tasks that we implement in our application .
 2. The Multiple app on one screen is the main option of this application. Most used applicaion of users he/she can set those applications on a screen. For eg if user want to open the whatsapp and facebook simultaneouly or any other application Computer screen divided into parts. He/She can view multiple apps on a single screen.you can listen 
 background music and also twite schduling is most important option on social websites 
 
-The targeted audience are free or scoial media user they most of the time spend in soical web site for scrolling or uploading videos or images in social webs sites or expend the time in listen to the music.Social admin page user control so many apps simultaneously at a time are the main audience of this application.
+The targeted audience are free or scoial media user they most of the time spend on soical web site for scrolling or uploading videos or images in social webs sites or spend the time listen the music.Social admin page user control so many apps simultaneously at a time are the main audience of this application.
 
 ## Design Alternatives ##
 
-### 1) Designs
+### Designs
  
-### 2) Personas
+### Personas
 
 1) John is an old person that and he is working in industrial area. Due to the environment he is suffering from weak eyes and age factor. They have lots of work to do and many of them work are on the computer. While using computer he wastes so many times to find the apps or any other file.
 
@@ -33,16 +33,24 @@ The targeted audience are free or scoial media user they most of the time spend 
 
 3) Ahsan is a scoial activist he can manage or run many social pages. But his problem is to managed the apps, when he opens the applications this causes the system to slow down. Their system does not support to open many apps simultaneously.
 
-4) Shahzib is a home user and he is a short tempered person. When he is working in one application like he is making a word document and he wanted to move on another file he needs to minimize one app and move another app and vice versa. Some how he lost his work due to minmize and moving their files.
+4) Shazaib is a home user and he is a short tempered person. When he is working in one application like he is making a word document and he wanted to move on another file he needs to minimize one app and move another app and vice versa. Some how he lost his work due to minmize and moving their files.
 
 5) Alex is a student and he is not interested in studies. He is having a problem that he finds fault in everyone thats why he losts all the job due to his reason. He started working to find the bug in the application. Till today, he has not received any app that does not lack even he showing his interest because he is making a money to do this work.
 
-6) Anas is an uneducated person and he does not comfortable to use english language. He wanted to use urdu language which he can use to find any file or application in the system.
+6) Anas is an uneducated person and he does not comfortable to use english language. He wanted to use urdu language which he can use to find any file or application in the system.When you are using social media apps if internet diconnects so you can play the games or listen the music without the internet.
 
-### 3) Scenarios
+### Scenarios
 
+1) Suppose john wants to use our application firstly he open the app all the apps are available on the front screen. If he wants to open any file or any apps he can used our "Suno yaar" option on the left side just say in urdu and whatever he wants in the computer will appear on the screen.
 
-### 4) storyboards
+2) Kamran is a content creator firstly he open this application whatever he wants to open many apps so he easily use apps simultaneously at a time on a single screen.
+If he is using 3 apps at a time the screen will divides into 3 parts, 4 apps divided into 4 parts and so on.
+
+3) Another person ahsan is a social activist and he runs many apps at a time, though his system is very slow thats why he has not to be opened separately. If he wants to used facebook, instagram and whatsapp etc all the apps will open on a single screen.
+
+4) Anas open the app firstly than he select the option which is left side below "Suno yaar" and say in urdu whatever he wants to finding. He can play games and social media app used simultaneously at a time on a single.
+
+### Storyboards
   
 3) Brainstorm few questions from perspective of each persona in each scenario and story.  
 
@@ -54,22 +62,3 @@ Develop low fidelity prototypes for each of the 2 disgns selected above.
 
 ## Evaluation ##
 Get the prototypes evaluated quickly by someone in your family or circle.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
