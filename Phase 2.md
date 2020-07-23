@@ -24,26 +24,26 @@ The targeted audience are free or scoial media user they most of the time spend 
 ## Design Alternatives ##
 
 ### Designs
-#1#
+*1*
 ![1](https://user-images.githubusercontent.com/66660943/88334767-b4ee9f80-cd4b-11ea-9380-8981d8315c25.jpeg)
-#2#
+*2*
 ![2](https://user-images.githubusercontent.com/66660943/88334791-b9b35380-cd4b-11ea-93e9-bc531e30b800.jpeg)
-#3#
+*3*
 ![3](https://user-images.githubusercontent.com/66660943/88334776-b6b86300-cd4b-11ea-8c4d-338924153626.jpeg)
-#4#
+*4*
 ![4](https://user-images.githubusercontent.com/66660943/88334778-b7e99000-cd4b-11ea-9b76-d5c0da9b62eb.jpeg)
-#5#
+*5*
 ![5](https://user-images.githubusercontent.com/66660943/88334777-b750f980-cd4b-11ea-9eaf-67c2c1231aaa.jpeg)
-#6#
+*6*
 ![6](https://user-images.githubusercontent.com/66660943/88334789-b9b35380-cd4b-11ea-8a77-f7c53735ef0a.jpeg)
-#7#
+*7*
 ![7](https://user-images.githubusercontent.com/66660943/88334788-b91abd00-cd4b-11ea-9f09-4722496f19f2.jpeg)
-#8#
+*8*
 ![8](https://user-images.githubusercontent.com/66660943/88334787-b91abd00-cd4b-11ea-8983-5587a6c06553.jpeg)
-#9#
+*9*
 ![9 1](https://user-images.githubusercontent.com/66660943/88334780-b7e99000-cd4b-11ea-8354-80f28651c12a.jpeg)
 ![9](https://user-images.githubusercontent.com/66660943/88334783-b8822680-cd4b-11ea-8e9e-51721ae7d706.jpeg)
-#10#
+*10*
 ![10](https://user-images.githubusercontent.com/66660943/88334774-b6b86300-cd4b-11ea-8d22-7a21ff2bb677.jpeg)
  
 ### Personas
@@ -80,7 +80,17 @@ If he is using 3 apps at a time the screen will divides into 3 parts, 4 apps div
 We made multiple designs and keeping the point of problems we selected the design No 3 and 4. These designs are little better among all the designs.
  
 ## Prototyping ##
-Develop low fidelity prototypes for each of the 2 disgns selected above. 
+Develop low fidelity prototypes for each of the 2 disgns selected above.
+##1:1##
+![P1](https://user-images.githubusercontent.com/66660943/88336124-e7999780-cd4d-11ea-97e9-b7960feec150.jpeg)
+##1:2##
+![P1,2](https://user-images.githubusercontent.com/66660943/88336123-e7010100-cd4d-11ea-9618-f7a4f7fb4ff4.jpeg)
+##1:3##
+![P1,3](https://user-images.githubusercontent.com/66660943/88336114-e49ea700-cd4d-11ea-9442-e7f09fec13e4.jpeg)
+##2:1##
+![P21](https://user-images.githubusercontent.com/66660943/88336118-e5cfd400-cd4d-11ea-9492-544f946bf2ea.jpeg)
+##2:2##
+![P2](https://user-images.githubusercontent.com/66660943/88336121-e6686a80-cd4d-11ea-9733-072dada48b59.jpeg)
 
 
 ## Evaluation ##
