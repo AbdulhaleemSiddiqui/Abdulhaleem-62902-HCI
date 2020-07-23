@@ -1,4 +1,3 @@
-
 # HCI 104497: 2 in 1 Desktop App #
 ### PROJECT MEMBERS ###
 StdID | Name
@@ -21,14 +20,7 @@ These are 2 tasks that we implement in our application .
 2. The Multiple app on one screen is the main option of this application. Most used applicaion of users he/she can set those applications on a screen. For eg if user want to open the whatsapp and facebook simultaneouly or any other application Computer screen divided into parts. He/She can view multiple apps on a single screen.you can listen 
 background music and also twite schduling is most important option on social websites 
 
-#the target audience  free or scoial media user  they most of the time expend in soical web site for scrolling or uploading videos or images in social webs sites or expend the time in listen to the music .
-Social admin page user control so many apps simultaneously at a time are the main audience of this application.
-Soical media user,normal pc user,lazy people,weak peerson
-
-what any application design for special people to easily using the desktop pcs?
-i think many application design but most of the application just only special person  
-they  ignor the normal public.but this app is targeted to more  normal and specail audience  
-
+### The targeted audience are free or scoial media user they most of the time expend in soical web site for scrolling or uploading videos or images in social webs sites or expend the time in listen to the music.Social admin page user control so many apps simultaneously at a time are the main audience of this application.
 
 ## Design Alternatives ##
 
