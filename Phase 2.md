@@ -52,9 +52,11 @@ If he is using 3 apps at a time the screen will divides into 3 parts, 4 apps div
 
 ### Storyboards
   
-3) Brainstorm few questions from perspective of each persona in each scenario and story.  
-
-4) Based on those question finalize at-least 2 designs.
+### Brainstorming
+1) In persona 1 old person are using this app he wants all the options are visible on the screen so he can easily used it.
+2) In persona 6 the person is uneducated he is worry about to use this app.
+3) In persona 2 kamran is confusing how can be it possible to use many apps simultaneously.
+We made multiple designs and keeping the point of problems we selected the design No 3 and 4. These designs are little better among all the designs.
  
 ## Prototyping ##
 Develop low fidelity prototypes for each of the 2 disgns selected above. 
