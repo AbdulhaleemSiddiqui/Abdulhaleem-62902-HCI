@@ -5,7 +5,7 @@ StdID | Name
 **62902** | **Abdul Haleem** <!--this is the group leader in bold-->
 62367 | Syed Munawwar ALi Shah 
 <!-- Replace name and student ids with acutally group member names and ids-->
-ASDA
+
 ASD
 ## Task Finalization ##
 #### 1. Urdu voice Recognition . ####
