@@ -106,5 +106,7 @@ Develop low fidelity prototypes for each of the 2 disgns selected above.
 
 ## Evaluation ##
 Get the prototypes evaluated quickly by someone in your family or circle. 
+
 Good and benefical some features are very unknown sone gui issues but overall intresting app 
-specially for new genration  and speaking option and urdu speaking option was very unique you say anything it in everyday language 
+specially for new genration  and urdu speaking option was very unique you say anything it in everyday language 
+
