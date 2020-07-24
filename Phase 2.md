@@ -80,9 +80,20 @@ If he is using 3 apps at a time the screen will divides into 3 parts, 4 apps div
 We made multiple designs and keeping the point of problems we selected the design No 3 and 4. These designs are little better among all the designs.
  
 ## Prototyping ##
+*1*
+![r1](https://user-images.githubusercontent.com/66660943/88411078-bf16a980-cdf0-11ea-908f-02eb65c14f94.jpeg)
+![r12](https://user-images.githubusercontent.com/66660943/88411081-bfaf4000-cdf0-11ea-8d00-c9436fe5ca48.jpeg)
+
+*2*
+![r21](https://user-images.githubusercontent.com/66660943/88411082-c047d680-cdf0-11ea-84ef-c057df7bce3c.jpeg)
+
+
+![r22](https://user-images.githubusercontent.com/66660943/88411068-bb832280-cdf0-11ea-96c3-ee0842e6c17c.jpeg)
+
 Develop low fidelity prototypes for each of the 2 disgns selected above.
 ## 1:1 ##
-![P1](https://user-images.githubusercontent.com/66660943/88336124-e7999780-cd4d-11ea-97e9-b7960feec150.jpeg)
+![p1new](https://user-images.githubusercontent.com/66660943/88411076-bde57c80-cdf0-11ea-9dcd-67d54f085465.jpeg)
+
 ## 1:2 ##
 ![P1,2](https://user-images.githubusercontent.com/66660943/88336123-e7010100-cd4d-11ea-9618-f7a4f7fb4ff4.jpeg)
 ## 1:3 ##
@@ -90,8 +101,10 @@ Develop low fidelity prototypes for each of the 2 disgns selected above.
 ## 2:1 ##
 ![P21](https://user-images.githubusercontent.com/66660943/88336118-e5cfd400-cd4d-11ea-9492-544f946bf2ea.jpeg)
 ## 2:2 ##
-![P2](https://user-images.githubusercontent.com/66660943/88336121-e6686a80-cd4d-11ea-9733-072dada48b59.jpeg)
+![p22new](https://user-images.githubusercontent.com/66660943/88411075-bd4ce600-cdf0-11ea-9463-27ba62aa5208.jpeg)
 
 
 ## Evaluation ##
-Get the prototypes evaluated quickly by someone in your family or circle.  
+Get the prototypes evaluated quickly by someone in your family or circle. 
+Good and benefical some features are very unknown sone gui issues but overall intresting app 
+specially for new genration  and speaking option and urdu speaking option was very unique you say anything it in everyday language 
