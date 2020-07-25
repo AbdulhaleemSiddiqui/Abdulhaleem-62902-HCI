@@ -71,14 +71,6 @@ If he is using 3 apps at a time the screen will divides into 3 parts, 4 apps div
 4) Anas open the app firstly than he select the option which is left side below "Suno yaar" and say in urdu whatever he wants to finding. He can play games and social media app used simultaneously at a time on a single.
 
 ### Storyboards
-  
-### Brainstorming
-1) In persona 1 old person are using this app he wants all the options are visible on the screen so he can easily used it.
-2) In persona 6 the person is uneducated he is worry about to use this app.
-3) In persona 2 kamran is confusing how can be it possible to use many apps simultaneously.
-We made multiple designs and keeping the point of problems we selected the design No 3 and 4. These designs are little better among all the designs.
- 
-## Prototyping ##
 *1*
 ![r1](https://user-images.githubusercontent.com/66660943/88411078-bf16a980-cdf0-11ea-908f-02eb65c14f94.jpeg)
 ![r12](https://user-images.githubusercontent.com/66660943/88411081-bfaf4000-cdf0-11ea-8d00-c9436fe5ca48.jpeg)
@@ -86,9 +78,17 @@ We made multiple designs and keeping the point of problems we selected the desig
 *2*
 ![r21](https://user-images.githubusercontent.com/66660943/88411082-c047d680-cdf0-11ea-84ef-c057df7bce3c.jpeg)
 
-
 ![r22](https://user-images.githubusercontent.com/66660943/88411068-bb832280-cdf0-11ea-96c3-ee0842e6c17c.jpeg)
-
+  
+### Brainstorming
+1) As we discussed this app is using old person and uneducated person as well they want all the options are visible on the screen.
+2) Users confused how can be it possible to use many apps simultaneously.
+3 Easily managed apps and there is no guidance need to used for this application.
+4) Many tasks you can perform it on a single screen.
+5) Some application you can used without a internet.
+We made multiple designs and keeping these point of problems we selected the design No 3 and 4. These designs are little better among all the designs.
+ 
+## Prototyping ##
 ## 1:1 ##
 ![p1new](https://user-images.githubusercontent.com/66660943/88411076-bde57c80-cdf0-11ea-9dcd-67d54f085465.jpeg)
 
@@ -101,10 +101,7 @@ We made multiple designs and keeping the point of problems we selected the desig
 ## 2:2 ##
 ![p22new](https://user-images.githubusercontent.com/66660943/88411075-bd4ce600-cdf0-11ea-9463-27ba62aa5208.jpeg)
 
-
 ## Evaluation ##
-Get the prototypes evaluated quickly by someone in your family or circle. 
-
 Good and benefical some features are very unknown some GUI issues but overall intresting app 
-specially for new genration and urdu speaking option is very unique you say anything in it everyday language 
+specially for new genration and urdu speaking option is very unique you say anything in it everyday routine. 
 
