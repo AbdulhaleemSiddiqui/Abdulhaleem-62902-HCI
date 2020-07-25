@@ -26,7 +26,6 @@ The targeted audience are free or scoial media user they most of the time spend 
 ### Designs
 *1*
 ![1](https://user-images.githubusercontent.com/66660943/88334767-b4ee9f80-cd4b-11ea-9380-8981d8315c25.jpeg)
-*2*
 ![2](https://user-images.githubusercontent.com/66660943/88334791-b9b35380-cd4b-11ea-93e9-bc531e30b800.jpeg)
 *3*
 ![3](https://user-images.githubusercontent.com/66660943/88334776-b6b86300-cd4b-11ea-8c4d-338924153626.jpeg)
