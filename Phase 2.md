@@ -90,7 +90,6 @@ We made multiple designs and keeping the point of problems we selected the desig
 
 ![r22](https://user-images.githubusercontent.com/66660943/88411068-bb832280-cdf0-11ea-96c3-ee0842e6c17c.jpeg)
 
-Develop low fidelity prototypes for each of the 2 disgns selected above.
 ## 1:1 ##
 ![p1new](https://user-images.githubusercontent.com/66660943/88411076-bde57c80-cdf0-11ea-9dcd-67d54f085465.jpeg)
 
@@ -107,6 +106,6 @@ Develop low fidelity prototypes for each of the 2 disgns selected above.
 ## Evaluation ##
 Get the prototypes evaluated quickly by someone in your family or circle. 
 
-Good and benefical some features are very unknown sone gui issues but overall intresting app 
-specially for new genration  and urdu speaking option was very unique you say anything it in everyday language 
+Good and benefical some features are very unknown some GUI issues but overall intresting app 
+specially for new genration and urdu speaking option is very unique you say anything in it everyday language 
 
