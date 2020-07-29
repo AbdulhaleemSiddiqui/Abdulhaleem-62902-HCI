@@ -9,6 +9,9 @@ Fahad is an admin and he is running social meedia pages he want to use custom se
 
 ### Storyboarding ###
 
+![1](https://user-images.githubusercontent.com/51967342/88843931-4dc56500-d1fb-11ea-9ba9-e4a446be722a.jpeg)
+![2](https://user-images.githubusercontent.com/51967342/88843936-4ef69200-d1fb-11ea-9c00-f0c9b4f19f45.jpeg)
+
 ### Refine your design ###
 
 The following function refined are, 
