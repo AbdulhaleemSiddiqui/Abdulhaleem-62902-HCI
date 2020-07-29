@@ -35,15 +35,19 @@ Now you will move towards more mature prototypes for the final design you have s
 
 ### Window navigation transition hierarchy
 
-Explain using HCI concepts, the reason for key design features in your interface.
+### Explain using HCI concepts, the reason for key design features in your interface.
 
 Affordance signifires : Every item look like how to use it. It is giving you a hint.
+
 Simplicity : You or we can understand our application more esaily.
+
 Mapping: Its example is the music play button if you press it,it will run itself. You already know what hapeen when you see the music icon.
-proper structure base implementation
-tolerance issue ignore for some reasons
-feedback 
-documentation: I have provided the complete docementation. User can learn more inofrmation in the app.
+
+Proper structure base implementation.
+
+Feedback 
+
+Documentation: I have provided the complete docementation. User can learn more inofrmation in the app.
 
 ## Evaluation ##
 Get the prototypes evaluated by someone in your family or circle get detailed feedback.
