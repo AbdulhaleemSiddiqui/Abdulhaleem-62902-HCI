@@ -78,7 +78,7 @@ problem you  speak in the mic  so you can see the text
 
 ### Scenarios
 
-1) Suppose john wants to use our application firstly he open the app all the apps are available on the front screen. If he wants to open any file or any apps he can used our "Suno yaar" option on the left side just say in urdu and whatever he wants in the computer will appear on the screen.
+1) Suppose john wants to use our application firstly he open the app all the apps are available on the front screen. If he wants to open any file or any apps he can used our "Suno yaar" option on the left side just say in urdu and whatever he wants in the computer will appear on the screen and some design we change the location base on target audience.
 
 2) Kamran is a content creator firstly he open this application whatever he wants to open many apps so he easily use apps simultaneously at a time on a single screen.
 If he is using 3 apps at a time the screen will divides into 3 parts, 4 apps divided into 4 parts and so on.
