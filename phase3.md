@@ -37,21 +37,38 @@ Now you will move towards more mature prototypes for the final design you have s
 ![4](https://user-images.githubusercontent.com/51967342/88836445-1e5d2b00-d1f0-11ea-9629-4abc394de554.png)
 
 ### Window navigation transition hierarchy
-![WhatsApp Image 2020-07-30 at 2 34 34 AM](https://user-images.githubusercontent.com/66660943/88856338-c2a19a80-d20d-11ea-8b3d-3bfc11f48963.jpeg)
 
 ![WhatsApp Image 2020-07-30 at 2 34 23 AM](https://user-images.githubusercontent.com/66660943/88856336-c2090400-d20d-11ea-99ac-77ec9d4d2b6d.jpeg) 
+
+                                 
+                              ![WhatsApp Image 2020-07-30 at 2 34 34 AM](https://user-images.githubusercontent.com/66660943/88856338-c2a19a80-d20d-11ea-8b3d-3bfc11f48963.jpeg)
+
  
- ![WhatsApp Image 2020-07-30 at 2 35 13 AM](https://user-images.githubusercontent.com/66660943/88856325-bfa6aa00-d20d-11ea-8680-d0e513be7f55.jpeg)
  
 ![WhatsApp Image 2020-07-30 at 2 34 56 AM](https://user-images.githubusercontent.com/66660943/88856321-bd445000-d20d-11ea-8bed-9159b7a8d1a6.jpeg)
+      
+      
+                          ![WhatsApp Image 2020-07-30 at 2 34 34 AM](https://user-images.githubusercontent.com/66660943/88856338-c2a19a80-d20d-11ea-8b3d-3bfc11f48963.jpeg)
+
+
+*1*
+
+ ![WhatsApp Image 2020-07-30 at 2 35 13 AM](https://user-images.githubusercontent.com/66660943/88856325-bfa6aa00-d20d-11ea-8680-d0e513be7f55.jpeg)
+
+*2*
 
 ![WhatsApp Image 2020-07-30 at 2 35 33 AM](https://user-images.githubusercontent.com/66660943/88856326-bfa6aa00-d20d-11ea-8b64-775ebf58d5bc.jpeg)
 
+*3*
+
 ![WhatsApp Image 2020-07-30 at 2 35 50 AM](https://user-images.githubusercontent.com/66660943/88856328-c03f4080-d20d-11ea-81d0-486ee30e4a4e.jpeg)
+*4*
 
 ![WhatsApp Image 2020-07-30 at 2 36 06 AM](https://user-images.githubusercontent.com/66660943/88856330-c0d7d700-d20d-11ea-8433-82c7851f69cd.jpeg)
+*5*
 
 ![WhatsApp Image 2020-07-30 at 2 36 31 AM](https://user-images.githubusercontent.com/66660943/88856332-c1706d80-d20d-11ea-81ff-a3a65da939cd.jpeg)
+*6*
 
 ![WhatsApp Image 2020-07-30 at 2 36 49 AM](https://user-images.githubusercontent.com/66660943/88856334-c1706d80-d20d-11ea-97ff-7bb9b97a92a3.jpeg)
 
