@@ -1,7 +1,6 @@
 ## Need Finding ##
-In the last design we Have some changes Some new options have insert As before No setting option Speed ​​was not an option Social app bar Lived on the above site
-The man speaking in the mic was not visible in=n the tax form. 
-Now it will be visible and the output screen was coming enlarge his size too.we have also include feed back option and provide docmentation.
+In the last design we Have some changes Some new options have insert as before no setting option before and social app bar present on the top site of the screen.
+The user speaking in the mic was not visible in the tax form. Now it will be visible and the output screen was coming enlarge his size too.we have also include feed back option and provide docmentation.
 
 ## Design Alternatives ##
 
@@ -38,16 +37,13 @@ Now you will move towards more mature prototypes for the final design you have s
 
 Explain using HCI concepts, the reason for key design features in your interface.
 
-Affordance signifires :Every item look like how to use it.it giving you a hint 
-simplicity :you or we can  understand our application more esaily
-Mapping:its example is the music play button if you press it,it will run itself .it is guess to see from who's playing what will happen
-essay comfort design 
+Affordance signifires : Every item look like how to use it. It is giving you a hint.
+Simplicity : You or we can understand our application more esaily.
+Mapping: Its example is the music play button if you press it,it will run itself. You already know what hapeen when you see the music icon.
 proper structure base implementation
 tolerance issue ignore for some reasons
 feedback 
-documentation:i have provide complete docementation .user we learn more inofrmation on the app 
-
-
+documentation: I have provided the complete docementation. User can learn more inofrmation in the app.
 
 ## Evaluation ##
 Get the prototypes evaluated by someone in your family or circle get detailed feedback.
