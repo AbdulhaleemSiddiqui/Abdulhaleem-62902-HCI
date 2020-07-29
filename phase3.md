@@ -62,9 +62,11 @@ Now you will move towards more mature prototypes for the final design you have s
 *2*
 
 ![WhatsApp Image 2020-07-30 at 2 35 50 AM](https://user-images.githubusercontent.com/66660943/88856328-c03f4080-d20d-11ea-81d0-486ee30e4a4e.jpeg)
+
 *3*
 
 ![WhatsApp Image 2020-07-30 at 2 36 06 AM](https://user-images.githubusercontent.com/66660943/88856330-c0d7d700-d20d-11ea-8433-82c7851f69cd.jpeg)
+
 *4*
 
 ![WhatsApp Image 2020-07-30 at 2 36 31 AM](https://user-images.githubusercontent.com/66660943/88856332-c1706d80-d20d-11ea-81ff-a3a65da939cd.jpeg)
