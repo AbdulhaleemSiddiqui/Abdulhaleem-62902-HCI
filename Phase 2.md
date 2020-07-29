@@ -25,19 +25,32 @@ The targeted audience are free or scoial media user they most of the time spend 
 
 ### Designs
 *1*
+first design we have fix or reserved the screen for social app we can either use or use not but it space reserved.menu bar is left side and social icon in down side
+auto time scheduling and menu screen it also fixed.in this design the target audience 
 ![1](https://user-images.githubusercontent.com/66660943/88334767-b4ee9f80-cd4b-11ea-9380-8981d8315c25.jpeg)
+*2*
+second design we have  music player in right side mid on screen appear  mic for urdu reoucogniaton to perfome the spcific task .mic design an circule shape.it also same pattern an menu bar and soicla icon move to top of the screen if you select the social icon so new screen appear on lcd the target audience in design old person 
+
 ![2](https://user-images.githubusercontent.com/66660943/88334791-b9b35380-cd4b-11ea-93e9-bc531e30b800.jpeg)
 *3*
+the menu bar social bar and auto twitter bar
+outcome after hover
+and social app screen not fixed depend upon the you open app .they have auto resize base on open apps.mic icon work as a button for speaking
 ![3](https://user-images.githubusercontent.com/66660943/88334776-b6b86300-cd4b-11ea-8c4d-338924153626.jpeg)
 *4*
+in this design we have to music player add in menu bar and simple button replace in operational icons and mic wave shape in wife layers shap
 ![4](https://user-images.githubusercontent.com/66660943/88334778-b7e99000-cd4b-11ea-9b76-d5c0da9b62eb.jpeg)
 *5*
+in this design we remove the menu bar speak button move in footer sided and auto twitte schduling  in mid on the screen .the top of social icon fix if we select the social icon the button and social  app is fix but twitte schduling screen replace of  the task
 ![5](https://user-images.githubusercontent.com/66660943/88334777-b750f980-cd4b-11ea-9eaf-67c2c1231aaa.jpeg)
 *6*
+menu screen in footer side. the social app screen is fixed on this position social icon in same position but media player position change.the scoial app screen show in vertical positon 
 ![6](https://user-images.githubusercontent.com/66660943/88334789-b9b35380-cd4b-11ea-8a77-f7c53735ef0a.jpeg)
 *7*
+in this design we have to introduce new design pattern the social screen show in horizontal position and slide screen up to down position .the socila icon and menu bar mix  and show the left side of the screen
 ![7](https://user-images.githubusercontent.com/66660943/88334788-b91abd00-cd4b-11ea-9f09-4722496f19f2.jpeg)
 *8*
+we have social icon top of the screen and show in pendulum clock format .icon show in after hover just like mac pcs .music player move on footer side and menu bar move on right  side 
 ![8](https://user-images.githubusercontent.com/66660943/88334787-b91abd00-cd4b-11ea-8983-5587a6c06553.jpeg)
 *9*
 ![9 1](https://user-images.githubusercontent.com/66660943/88334780-b7e99000-cd4b-11ea-8354-80f28651c12a.jpeg)
