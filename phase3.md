@@ -10,16 +10,16 @@ Fahad is an admin and he is running social meedia pages he want to use custom se
 
 ### Storyboarding ###
 
-### refine your design ###
-the following function refine 
+### Refine your design ###
 
-feed back 
-insert new folder 
-documentation 
-voice change into text
-tweet time scheduling improve 
-social app hover side change 
-user perofrm the task through mic the output screen show in large size
+The following function refined are, 
+1) feed back 
+2) insert new folder 
+3) documentation 
+4) voice change into text
+5) tweet time scheduling improve 
+6) social app hover side change 
+7) user perofrm the task through mic the output screen show in large size
 
 ![qw](https://user-images.githubusercontent.com/66660943/88834723-ac83e200-d1ed-11ea-9f2a-6c3221a3f2ba.jpeg)
 
