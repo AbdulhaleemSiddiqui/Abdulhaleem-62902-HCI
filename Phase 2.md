@@ -36,7 +36,8 @@ second design we have  music player in right side mid on screen appear  mic for 
 the menu bar social bar and auto twitter bar
 outcome after hover
 and social app screen not fixed depend upon the you open app .they have auto resize base on open apps.mic icon work as a button for speaking
-![3](https://user-images.githubusercontent.com/66660943/88334776-b6b86300-cd4b-11ea-8c4d-338924153626.jpeg)
+![WhatsApp Image 2020-07-29 at 3 31 51 PM](https://user-images.githubusercontent.com/66660943/88791938-f5b74000-d1b3-11ea-81bd-3bc29d0a0238.jpeg)
+
 *4*
 in this design we have to music player add in menu bar and simple button replace in operational icons and mic wave shape in wife layers shap
 ![4](https://user-images.githubusercontent.com/66660943/88334778-b7e99000-cd4b-11ea-9b76-d5c0da9b62eb.jpeg)
@@ -53,6 +54,7 @@ in this design we have to introduce new design pattern the social screen show in
 we have social icon top of the screen and show in pendulum clock format .icon show in after hover just like mac pcs .music player move on footer side and menu bar move on right  side 
 ![8](https://user-images.githubusercontent.com/66660943/88334787-b91abd00-cd4b-11ea-8983-5587a6c06553.jpeg)
 *9*
+free space version to  introduce for socially active persons we can drop many screen on same time .it is simlier at design 7
 ![9 1](https://user-images.githubusercontent.com/66660943/88334780-b7e99000-cd4b-11ea-8354-80f28651c12a.jpeg)
 ![9](https://user-images.githubusercontent.com/66660943/88334783-b8822680-cd4b-11ea-8e9e-51721ae7d706.jpeg)
 *10*
