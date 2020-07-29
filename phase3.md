@@ -1,10 +1,10 @@
 ## Need Finding ##
-In the last design we Have some changes Some new options have insert as before no setting option before and social app bar present on the top site of the screen.
+In the last design we have some changes some new options have insert as before no manual setting option before and social app bar present on the top site of the screen.
 The user speaking in the mic was not visible in the tax form. Now it will be visible and the output screen was coming enlarge his size too.we have also include feed back option and provide docmentation.
 
 ## Design Alternatives ##
 
-### Personas ###
+### Persona ###
 Fahad is an admin and he is running social meedia pages he want to use custom settings like he will adjust manually set the applications in the navigation bar. If he want to open anything in the computer it will open through his voice and he is also wanted to see the text in the textbox what he said. He wants to open many applications simultaneoulsy on a single screen without hasitation.
 
 ### Storyboarding ###
