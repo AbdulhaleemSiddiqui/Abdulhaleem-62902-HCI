@@ -56,6 +56,8 @@ we have social icon top of the screen and show in pendulum clock format .icon sh
 ![9 1](https://user-images.githubusercontent.com/66660943/88334780-b7e99000-cd4b-11ea-8354-80f28651c12a.jpeg)
 ![9](https://user-images.githubusercontent.com/66660943/88334783-b8822680-cd4b-11ea-8e9e-51721ae7d706.jpeg)
 *10*
+the design specially constructed for aged smart  persons .the menu screen schow mic for perform any specific task  .its guid step by step how to peroform the task without any 
+problem you  speak in the mic  so you can see the text
 ![10](https://user-images.githubusercontent.com/66660943/88334774-b6b86300-cd4b-11ea-8d22-7a21ff2bb677.jpeg)
  
 ### Personas
