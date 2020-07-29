@@ -1,7 +1,5 @@
 ## Need Finding ##
-In the last design we Have some changes Some new options have insert As before No setting option Speed ​​was not an option Social app bar Lived on the above site
-The man speaking in the mic was not visible in=n the tax form. 
-Now it will be visible and the output screen was coming enlarge his size too.we have also include feed back option and provide docmentation.
+In the last design we have some changes Some new options have been inserted as before no setting option available and social app hover button are present on the top of the screen.The user speaking in the mic was not visible in the tax form before. Now it will be visible and the output screen was coming enlarge his size too. We have also include feed back option and provide docmentation.
 
 ## Design Alternatives ##
 
@@ -34,11 +32,10 @@ The following function refined are,
 ![3](https://user-images.githubusercontent.com/51967342/88836436-1bfad100-d1f0-11ea-90bf-2bc5ab35ad11.png)
 ![4](https://user-images.githubusercontent.com/51967342/88836445-1e5d2b00-d1f0-11ea-9629-4abc394de554.png)
 
-
-
-- Window navigation transition hierarchy
+### Window navigation transition hierarchy
 
 Explain using HCI concepts, the reason for key design features in your interface.
+
 Affordance signifires :Every item look like how to use it.it giving you a hint 
 simplicity :you or we can  understand our application more esaily
 Mapping:its example is the music play button if you press it,it will run itself .it is guess to see from who's playing what will happen
