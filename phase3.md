@@ -14,6 +14,7 @@ Now you will move towards more mature prototypes for the final design you have s
 - Wireframes (powerpoint or any other tool)
 - physical prototypes 
 - Window navigation transition hierarchy
+
 Explain using HCI concepts, the reason for key design features in your interface.
 
 ## Evaluation ##
