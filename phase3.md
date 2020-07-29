@@ -1,30 +1,20 @@
-#Phase 2: Narowing down the Application#
+## Need Finding ##
+The prototypes you designed in previous iterations must have given you some new insight to your design. Use them to help you select your FINAL design.
 
-##Task Finalization##
+## Design Alternatives ##
+By now you have studied all design principles. Using them and tools previously discussed 
+- personas
+- scenarios/storyboarding
+- etc.
+refine your design.
 
-From the list of tasks that you provided in phase 1, select 1 or 2 that you intent to implement in your application or provide ease to the society by applying HCI concepts to that task. 
+## Prototyping ##
+Now you will move towards more mature prototypes for the final design you have selected.
 
-##Need Finding##
+- Wireframes (powerpoint or any other tool)
+- physical prototypes 
+- Window navigation transition hierarchy
+Explain using HCI concepts, the reason for key design features in your interface.
 
-Use internet to find videos, real scenarios, current trends etc etc of how that particular task is usually performed. 
-
-Who are the major target audience/users who perform the task selected. 
-
-Many other questions. 
-
-##Design Alternatives##
-
-1) List down at-least 10 design alternatives.
-2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
-- 6-7 personas
-- 4 scenarios
-- 4 storyboards
-3) Brainstorm few questions from perspective of each persona in each scenario and story.  
-4) Based on those question finalize at-least 2 designs.
-
-##Prototyping##
-Develop low fidelity prototypes for each of the 2 disgns selected above. 
-
-
-##Evaluation##
-Get the prototypes evaluated quickly by someone in your family or circle.  
+## Evaluation ##
+Get the prototypes evaluated by someone in your family or circle get detailed feedback.
