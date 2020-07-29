@@ -29,11 +29,10 @@ Now you will move towards more mature prototypes for the final design you have s
 
 ### Wireframes
 
-![WhatsApp Image 2020-07-29 at 9 45 40 PM (1)](https://user-images.githubusercontent.com/66660943/88834703-a7269780-d1ed-11ea-944d-8b81802cde38.jpeg)
-![WhatsApp Image 2020-07-29 at 8 55 12 PM (2)](https://user-images.githubusercontent.com/66660943/88834687-a42ba700-d1ed-11ea-9475-6d2d062e789b.jpeg)
-
-![WhatsApp Image 2020-07-29 at 8 55 12 PM (3)](https://user-images.githubusercontent.com/66660943/88834707-a857c480-d1ed-11ea-914e-32f8605db67a.jpeg)
-![WhatsApp Image 2020-07-29 at 8 55 12 PM (1)](https://user-images.githubusercontent.com/66660943/88834702-a68e0100-d1ed-11ea-86db-51b317a183a8.jpeg)
+![1](https://user-images.githubusercontent.com/51967342/88836418-1604f000-d1f0-11ea-8402-ad288bf37b2a.png)
+![2](https://user-images.githubusercontent.com/51967342/88836429-19987700-d1f0-11ea-92ec-fd9ef710b72c.png)
+![3](https://user-images.githubusercontent.com/51967342/88836436-1bfad100-d1f0-11ea-90bf-2bc5ab35ad11.png)
+![4](https://user-images.githubusercontent.com/51967342/88836445-1e5d2b00-d1f0-11ea-9629-4abc394de554.png)
 
 ### Window navigation transition hierarchy
 
