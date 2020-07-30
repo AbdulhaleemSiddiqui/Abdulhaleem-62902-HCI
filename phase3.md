@@ -1,3 +1,13 @@
+# HCI 104497: 2 in 1 Desktop App #
+### PROJECT MEMBERS ###
+StdID | Name
+------------ | -------------
+**62902** | **Abdul Haleem** <!--this is the group leader in bold-->
+62367 | Syed Munawwar ALi Shah 
+
+
+
+
 ## Need Finding ##
 In the last design we have some changes some new options have insert as before no manual setting option before and social app bar present on the top site of the screen.
 The user speaking in the mic was not visible in the tax form. Now it will be visible and the output screen was coming enlarge his size too.we have also include feed back option and provide docmentation.
