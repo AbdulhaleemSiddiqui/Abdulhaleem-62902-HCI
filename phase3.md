@@ -106,4 +106,5 @@ Feedback
 Documentation: I have provided the complete docementation. User can learn more inofrmation in the app.
 
 ## Evaluation ##
-Get the prototypes evaluated by someone in your family or circle get detailed feedback.
+We've had some of our friends experiment with it. Some have praised and some have said that there are a lot of things on the screen which may cause some users trouble.
+Although idea is interesting and work more in future.
